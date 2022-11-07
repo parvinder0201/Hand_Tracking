@@ -5,6 +5,6 @@ MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs
 ![image](https://user-images.githubusercontent.com/107706189/200296000-576009bd-b1fc-4125-9dbc-a30dcaf39d25.png)
 
 # Models used
-# 1.Palm Detection Model
-# 2.Hand Landmark Model
+### 1.Palm Detection Model
+### 2.Hand Landmark Model
 ![image](https://user-images.githubusercontent.com/107706189/200295807-1b67a760-16a3-46eb-9722-1d4dd83ef861.png)
